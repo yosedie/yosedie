@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Yosedie! 👋
 
-<!--
-**yosedie/yosedie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and love to work on exciting projects. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, Jenkins
+- **Cloud:** Google Cloud Platform
+
+## 🌟 Projects
+
+### [web programming framework](https://github.com/yosedie/framework-project)
+based on my software development project, to make a e-commerce web-app for new nasional
+
+## 📈 GitHub Stats
+
+![Yosedie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosedie&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+
+- **Email:** [yosedie](mailto:ryanyosedieirawan@gmail.com)
+- **LinkedIn:** [yosedie](https://www.linkedin.com/in/yosedie)
+
+## 🌱 Currently Learning
+
+- Advanced algorithms and data structures
+- Machine learning and artificial intelligence
+- DevOps practices and tools
+
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about tech!
+
+---
