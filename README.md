@@ -21,7 +21,6 @@ based on my software development project, to make a e-commerce web-app for new n
 
 ## 📫 Contact Me
 
-- **Email:** [yosedie](mailto:ryanyosedieirawan@gmail.com)
 - **LinkedIn:** [yosedie](https://www.linkedin.com/in/yosedie)
 
 ## 🌱 Currently Learning
