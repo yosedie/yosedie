@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a passionate software developer enthusiastic a
 - 🔭 I’m currently working on exciting projects and expanding my skillset.
 - 🌱 I’m currently learning advanced algorithms, data structures, machine learning, AI, and deepening my understanding of DevOps practices.
 - 👯 I’m looking to collaborate on open-source projects or innovative software solutions.
-- 🤔 I’m looking for help with advanced machine learning concepts. (Optional: Be specific if you like)
+- 🤔 I’m looking for help with advanced machine learning concepts.
 - 💬 Ask me about Python, JavaScript, React, Node.js, or anything related to web development!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yosedie)
-- 😄 Pronouns: (He/Him, She/Her, They/Them - Add if you like)
-- ⚡ Fun fact: (Add a fun, tech-related or personal fact here - e.g., "I built my first website when I was 15!" or "I can solve a Rubik's Cube in under a minute!")
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: NULL
 
 ## 🔧 Technologies & Tools
 
@@ -28,15 +28,6 @@ Here's a snapshot of the technologies and tools I work with:
 
 ### [E-commerce Web Application Framework](https://github.com/yosedie/framework-project)
 
-This project focuses on building a robust and scalable e-commerce web application framework. The goal is to simplify the development process for new national e-commerce platforms.
-
-*Key Features (Example - tailor this to your project):*
-  - Modular design for easy customization.
-  - Secure payment gateway integration.
-  - User-friendly product management system.
-  - Optimized for performance and scalability.
-
-*(Consider adding 1-2 more key projects if you have them, with similar brief descriptions)*
 
 ## 📈 My GitHub Stats
 
@@ -54,14 +45,13 @@ I'm dedicated to continuous learning and am currently focusing on:
 
 - Advanced Algorithms and Data Structures
 - Machine Learning and Artificial Intelligence
-- DevOps Practices and Tools (e.g., Kubernetes, CI/CD pipelines)
+- DevOps
 
 ## 💬 Let's Connect!
 
 I'm always open to connecting with fellow developers, discussing new technologies, or exploring collaboration opportunities. Don't hesitate to reach out!
 
 - **LinkedIn:** [yosedie](https://www.linkedin.com/in/yosedie)
-- **Email:** (Optional: Add your professional email address if you're comfortable)
 
 ---
 
