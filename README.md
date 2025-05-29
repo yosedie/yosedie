@@ -37,6 +37,7 @@ for my entrepreneurship project, a split bill website using ocr
   <br/> <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=yosedie&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
+  <br/> <img src="https://github-profile-trophy.vercel.app/?username=yosedie&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />  
 </p>
 
 ## 🌱 Currently Learning
