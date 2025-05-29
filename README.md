@@ -27,9 +27,9 @@ Here's a snapshot of the technologies and tools I work with:
 ## 🌟 Highlighted Project
 
 ### [E-commerce Web Application Framework](https://github.com/yosedie/framework-project)
-
+based on my software development project, to make a e-commerce web-app for new nasional
 ### [Split Bill OCR](https://github.com/yosedie/split-bill-ocr)
-
+for my entrepreneurship project, a split bill website using ocr
 
 ## 📈 My GitHub Stats
 
