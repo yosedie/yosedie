@@ -28,6 +28,8 @@ Here's a snapshot of the technologies and tools I work with:
 
 ### [E-commerce Web Application Framework](https://github.com/yosedie/framework-project)
 
+### [Split Bill OCR](https://github.com/yosedie/split-bill-ocr)
+
 
 ## 📈 My GitHub Stats
 
