@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate software developer enthusiastic a
 - 👯 I’m looking to collaborate on open-source projects or innovative software solutions.
 - 🤔 I’m looking for help with advanced machine learning concepts.
 - 💬 Ask me about Python, JavaScript, React, Node.js, or anything related to web development!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yosedie)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: NULL
 
 ## 🔧 Technologies & Tools
