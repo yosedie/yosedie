@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Intelligent+Systems+%26+LLMs;PyTorch+%7C+TensorFlow+%7C+OpenCV;GCP+ML+Engineer+%7C+MLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=950&height=140&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Intelligent+Systems+%26+LLMs;PyTorch+%7C+TensorFlow+%7C+OpenCV;GCP+ML+Engineer+%7C+MLOps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,8 +38,8 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Yosedie (ヨセディ)
-location: Surabaya, Indonesia 🇮🇩
+name: ヨセディ
+location: 🇮🇩
 current_roles:
   - 🤖 AI Engineer @ FEHA (Amsterdam, Remote)
   - 🧠 ML Engineer @ NGOPER (Indonesia, Remote)
