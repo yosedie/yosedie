@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    G I T H U B   P R O F I L E                    -->
-<!--                        ✦  y o s e d i e  ✦                       -->
+<!--              ✦  y o s e d i e  /  y o s e d i e  ✦               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%8E%AF+Software+Developer+%7C+AI+Engineer;%F0%9F%A7%A0+Machine+Learning+%7C+Computer+Vision;%E2%98%81%EF%B8%8F+Google+Cloud+%7C+Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%8E%AF+AI&ML+Engineer+%7C;%F0%9F%A7%A0+Machine+Learning+%7C+Computer+Vision;%E2%98%81%EF%B8%8F+Google+Cloud+%7C+Full-Stack+Development" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -51,8 +51,8 @@ focus_areas:
   - Computer Vision & Deep Learning
   - Generative AI & LLMs
   - Cloud-Native Architecture
-daily_fuel: ☕ Coffee → 💡 Ideas → ⌨️ Code → 🚀 Deploy → 🔁 Repeat
-motto: "I believe every line of code has a story to tell."
+daily_fuel: Gaming → 💡 Ideas → ⌨️ Code → 🚀 Deploy → 🔁 Repeat
+motto: "Leveraging the art of prompt engineering to secure AI models, ensuring safety through semantic precision rather than complex code"
 ```
 
 <br/>
@@ -113,7 +113,7 @@ motto: "I believe every line of code has a story to tell."
     <h3 align="center">🏬 Diamond Electronic E-Commerce</h3>
     <p align="center">
       <a href="https://github.com/yosedie/NewNational-DiamondElectronic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=NewNational-DiamondElectronic&theme=tokyonight&hide_border=true&border_radius=12" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=NewNational-DiamondElectronic&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
       </a>
     </p>
     <p align="center">
@@ -128,7 +128,7 @@ motto: "I believe every line of code has a story to tell."
     <h3 align="center">🔬 Carpet Analysis System</h3>
     <p align="center">
       <a href="https://github.com/yosedie/carpet-analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=carpet-analysis&theme=tokyonight&hide_border=true&border_radius=12" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=carpet-analysis&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
       </a>
     </p>
     <p align="center">
@@ -145,7 +145,7 @@ motto: "I believe every line of code has a story to tell."
     <h3 align="center">🍽️ GiziSehat Health App</h3>
     <p align="center">
       <a href="https://github.com/RickyPrakusaW/Flutter-Gizi-Sehat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RickyPrakusaW&repo=Flutter-Gizi-Sehat&theme=tokyonight&hide_border=true&border_radius=12" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RickyPrakusaW&repo=Flutter-Gizi-Sehat&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
       </a>
     </p>
     <p align="center">
@@ -159,7 +159,7 @@ motto: "I believe every line of code has a story to tell."
     <h3 align="center">🎮 Skyrim Smart Bandits AI</h3>
     <p align="center">
       <a href="https://github.com/yosedie/ai-in-games-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=ai-in-games-project&theme=tokyonight&hide_border=true&border_radius=12" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=ai-in-games-project&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
       </a>
     </p>
     <p align="center">
@@ -280,8 +280,8 @@ motto: "I believe every line of code has a story to tell."
 <br/>
 
 <!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=yosedie&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="90%"/>
+<a href="https://github.com/yosedie">
+  <img src="https://github-profile-trophy.vercel.app/?username=yosedie&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="90%"/>
 </a>
 
 </div>
