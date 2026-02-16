@@ -10,10 +10,10 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%8E%AF+AI&ML+Engineer+%7C;%F0%9F%A7%A0+Machine+Learning+%7C+Computer+Vision;%E2%98%81%EF%B8%8F+Google+Cloud+%7C+Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+%7C+Computer+Vision+%7C+NLP;🚀+Building+Intelligent+Systems+%26+LLMs;⚡+PyTorch+%7C+TensorFlow+%7C+OpenCV;☁️+GCP+ML+Engineer+%7C+MLOps" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Quick Badges -->
 <a href="https://www.linkedin.com/in/yosedie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -113,7 +113,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <h3 align="center">🏬 Diamond Electronic E-Commerce</h3>
     <p align="center">
       <a href="https://github.com/yosedie/NewNational-DiamondElectronic">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=NewNational-DiamondElectronic&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
+        <img src="https://opengraph.githubassets.com/1/yosedie/NewNational-DiamondElectronic" width="100%" alt="Diamond Electronic"/>
       </a>
     </p>
     <p align="center">
@@ -128,7 +128,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <h3 align="center">🔬 Carpet Analysis System</h3>
     <p align="center">
       <a href="https://github.com/yosedie/carpet-analysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=carpet-analysis&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
+        <img src="https://opengraph.githubassets.com/1/yosedie/carpet-analysis" width="100%" alt="Carpet Analysis"/>
       </a>
     </p>
     <p align="center">
@@ -145,7 +145,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <h3 align="center">🍽️ GiziSehat Health App</h3>
     <p align="center">
       <a href="https://github.com/RickyPrakusaW/Flutter-Gizi-Sehat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RickyPrakusaW&repo=Flutter-Gizi-Sehat&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
+        <img src="https://opengraph.githubassets.com/1/RickyPrakusaW/Flutter-Gizi-Sehat" width="100%" alt="GiziSehat"/>
       </a>
     </p>
     <p align="center">
@@ -159,7 +159,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <h3 align="center">🎮 Skyrim Smart Bandits AI</h3>
     <p align="center">
       <a href="https://github.com/yosedie/ai-in-games-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosedie&repo=ai-in-games-project&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400" />
+        <img src="https://opengraph.githubassets.com/1/yosedie/ai-in-games-project" width="100%" alt="Skyrim AI"/>
       </a>
     </p>
     <p align="center">
@@ -281,7 +281,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <!-- Trophies -->
 <a href="https://github.com/yosedie">
-  <img src="https://github-profile-trophy.vercel.app/?username=yosedie&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="90%"/>
+  <img src="https://github-trophies.vercel.app/?username=yosedie&theme=algolia&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" width="90%"/>
 </a>
 
 </div>
