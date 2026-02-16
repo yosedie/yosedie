@@ -10,10 +10,10 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+Computer+Vision+NLP;Building+Intelligent+Systems+and+LLMs;PyTorch+TensorFlow+OpenCV;GCP+ML+Engineer+MLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=120&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Intelligent+Systems+%26+LLMs;PyTorch+%7C+TensorFlow+%7C+OpenCV;GCP+ML+Engineer+%7C+MLOps" alt="Typing SVG" />
 </a>
 
-<br/><br/><br/><br/>
+<br/>
 
 <!-- Quick Badges -->
 <a href="https://www.linkedin.com/in/yosedie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
