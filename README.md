@@ -63,9 +63,9 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <div align="center">
 <table>
-<!-- Row 1: Core Special Repositories -->
+<!-- Row 1: Core Profile & Pages -->
 <tr>
-  <td width="33%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
     <h3>👤 yosedie / yosedie</h3>
     <p><b>Profile README</b></p>
     <a href="https://github.com/yosedie/yosedie">
@@ -74,7 +74,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <br/><br/>
     <p align="center"><em>The primary identity repo. Hosts this animated profile page and showcases my journey as an AI & ML Engineer.</em></p>
   </td>
-  <td width="33%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
     <h3>🌐 yosedie.github.io</h3>
     <p><b>Free Static Hosting</b></p>
     <a href="https://yosedie.github.io">
@@ -83,7 +83,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <br/><br/>
     <p align="center"><em>My main professional portfolio website, hosted completely free of charge using GitHub Pages.</em></p>
   </td>
-  <td width="33%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
     <h3>⚙️ .github</h3>
     <p><b>Global Community</b></p>
     <a href="https://github.com/yosedie/.github">
@@ -92,19 +92,28 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <br/><br/>
     <p align="center"><em>Centralized default configuration repo housing global issues, pull request templates, and security guidelines.</em></p>
   </td>
+  <td width="25%" align="center" valign="top">
+    <h3>📄 yosedie-cv</h3>
+    <p><b>Project Pages Site</b></p>
+    <a href="https://yosedie.github.io/yosedie-cv/">
+      <img src="https://img.shields.io/badge/CV_Site-Online-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    <br/><br/>
+    <p align="center"><em>A dedicated interactive CV/Resume website, compiled and deployed automatically via GitHub Pages.</em></p>
+  </td>
 </tr>
 <!-- Row 2: Developer Ecosystem & Utilities -->
 <tr>
-  <td width="33%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
     <h3>🍺 homebrew-tap</h3>
-    <p><b>macOS/Linux Package Tap</b></p>
+    <p><b>Package Tap</b></p>
     <a href="https://github.com/yosedie/homebrew-tap">
       <img src="https://img.shields.io/badge/Brew_Tap-Active-D97706?style=for-the-badge&logo=homebrew&logoColor=white" />
     </a>
     <br/><br/>
     <p align="center"><em>My custom Homebrew tap for distributing CLI tools. Install my terminal card utility using <code>brew install yosedie</code>!</em></p>
   </td>
-  <td width="33%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
     <h3>🚀 hello-world-action</h3>
     <p><b>Custom GitHub Action</b></p>
     <a href="https://github.com/yosedie/hello-world-action">
@@ -113,7 +122,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     <br/><br/>
     <p align="center"><em>A custom composite GitHub Action that can be imported and executed by any developer in their workflow.</em></p>
   </td>
-  <td width="33%" align="center" valign="top">
+  <td width="25%" align="center" valign="top">
     <h3>📋 html5-portfolio-template</h3>
     <p><b>Template Repository</b></p>
     <a href="https://github.com/yosedie/html5-portfolio-template">
@@ -121,6 +130,15 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
     </a>
     <br/><br/>
     <p align="center"><em>A responsive glassmorphic portfolio boilerplate configured as a template. Click "Use this template" to bootstrap!</em></p>
+  </td>
+  <td width="25%" align="center" valign="top">
+    <h3>🚀 More Projects</h3>
+    <p><b>Full Repository List</b></p>
+    <a href="https://github.com/yosedie?tab=repositories">
+      <img src="https://img.shields.io/badge/Repos-30+-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <br/><br/>
+    <p align="center"><em>Explore my full collection of machine learning algorithms, Skripsi computer vision tools, and web apps.</em></p>
   </td>
 </tr>
 </table>
