@@ -57,6 +57,46 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <br/>
 
+<!-- ═══════════════════ SPECIAL REPOSITORIES ═══════════════════ -->
+
+## 🏛️ &nbsp;GitHub Special Repositories
+
+<div align="center">
+<table>
+<tr>
+  <td width="33%" align="center" valign="top">
+    <h3>👤 yosedie / yosedie</h3>
+    <p><b>Profile README</b></p>
+    <a href="https://github.com/yosedie/yosedie">
+      <img src="https://img.shields.io/badge/Profile-Active-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <br/><br/>
+    <p align="center"><em>The primary identity repo. Hosts this animated profile page and showcases my journey as an AI & ML Engineer.</em></p>
+  </td>
+  <td width="33%" align="center" valign="top">
+    <h3>🌐 yosedie.github.io</h3>
+    <p><b>Free Static Hosting</b></p>
+    <a href="https://yosedie.github.io">
+      <img src="https://img.shields.io/badge/Live_Site-Online-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    </a>
+    <br/><br/>
+    <p align="center"><em>My main professional portfolio website, hosted completely free of charge using GitHub Pages.</em></p>
+  </td>
+  <td width="33%" align="center" valign="top">
+    <h3>⚙️ .github</h3>
+    <p><b>Global Community</b></p>
+    <a href="https://github.com/yosedie/.github">
+      <img src="https://img.shields.io/badge/Templates-Active-DB2777?style=for-the-badge&logo=gitbook&logoColor=white" />
+    </a>
+    <br/><br/>
+    <p align="center"><em>Centralized default configuration repo housing global issues, pull request templates, and security guidelines.</em></p>
+  </td>
+</tr>
+</table>
+</div>
+
+<br/>
+
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 ## 🛠️ &nbsp;Tech Arsenal
