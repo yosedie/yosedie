@@ -47,4 +47,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile-summary-card-output/
           git commit -m "chore: update profile summary cards" || echo "no changes"
+          # other card workflows may push main concurrently — rebase and retry
+          for i in 1 2 3 4; do
+            if git push; then exit 0; fi
+            git pull --rebase origin main || true
+            sleep $((i * 3))
+          done
           git push
