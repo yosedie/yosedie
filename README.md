@@ -308,7 +308,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 ## 🌱 &nbsp;What I'm Up To
 
 <!--START_SECTION:activity-->
-🔭 Working on → AI systems at FEHA & ML pipelines at NGOPER
+1. 💪 Opened PR [#2](https://github.com/LandonJPGinn/jp-verb-quiz/pull/2) in [LandonJPGinn/jp-verb-quiz](https://github.com/LandonJPGinn/jp-verb-quiz)
 <!--END_SECTION:activity-->
 
 💬 **Ask me about** → Python, React, Computer Vision, GCP, Game AI
