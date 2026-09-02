@@ -125,8 +125,8 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <div align="center">
 
-<img src="profile-summary-cards/4-productive-time/productive-time.svg" alt="productive time" height="165"/>
-<img src="profile-summary-cards/2-most-commit-language/most-commit-language.svg" alt="most committed languages" height="165"/>
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" height="165"/>
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most committed languages" height="165"/>
 
 <br/>
 
