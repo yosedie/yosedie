@@ -52,68 +52,24 @@ focus_areas:
   - Generative AI & LLMs
   - Cloud-Native Architecture
 daily_fuel: Gaming → 💡 Ideas → ⌨️ Code → 🚀 Deploy → 🔁 Repeat
+ask_me_about: Python, React, Computer Vision, GCP, Game AI
 motto: "Leveraging the art of prompt engineering to secure AI models, ensuring safety through semantic precision rather than complex code"
 ```
 
 <br/>
 
-<!-- ═══════════════════ SPECIAL REPOSITORIES ═══════════════════ -->
+<!-- ═══════════════════ SKYLINE ═══════════════════ -->
 
-## 🏛️ &nbsp;GitHub Special Repositories
+## 🏙️ &nbsp;Contribution Skyline
 
 <div align="center">
-<table>
-<tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/yosedie/yosedie">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=yosedie&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/yosedie"/>
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/yosedie/yosedie.github.io">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=yosedie.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie.github.io"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/yosedie/.github">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=.github&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/.github"/>
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/yosedie/yosedie-cv">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=yosedie-cv&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/yosedie-cv"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/yosedie/homebrew-tap">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=homebrew-tap&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/homebrew-tap"/>
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/yosedie/hello-world-action">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=hello-world-action&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/hello-world-action"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/yosedie/html5-portfolio-template">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=html5-portfolio-template&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/html5-portfolio-template"/>
-    </a>
-  </td>
-  <td width="50%" align="center" valign="middle">
-    <h3>🚀 More Projects</h3>
-    <a href="https://github.com/yosedie?tab=repositories">
-      <img src="https://img.shields.io/badge/Repos-30+-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <p align="center"><em>ML algorithms, computer vision tools, and web apps.</em></p>
-  </td>
-</tr>
-</table>
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
+
+<br/>
+
+<sub>🏭 my year in code, rendered as a city — regenerated weekly by GitHub Actions</sub>
+
 </div>
 
 <br/>
@@ -163,75 +119,19 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <img src="assets/divider.svg" width="100%" alt="section divider" />
 
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<!-- ═══════════════════ CODE RHYTHM ═══════════════════ -->
 
-## 🚀 &nbsp;Featured Projects
+## ⏰ &nbsp;Code Rhythm
 
 <div align="center">
-<table>
-<tr>
-  <td width="50%" valign="top">
-    <h3 align="center">🏬 Diamond Electronic E-Commerce</h3>
-    <p align="center">
-      <a href="https://github.com/yosedie/NewNational-DiamondElectronic">
-        <img src="https://opengraph.githubassets.com/1/yosedie/NewNational-DiamondElectronic" width="100%" alt="Diamond Electronic"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square&logo=githubactions&logoColor=white"/>
-    </p>
-    <p align="center"><em>Enterprise-grade home appliance e-commerce with scalable Fastify backend, CI/CD, and data security.</em></p>
-  </td>
-  <td width="50%" valign="top">
-    <h3 align="center">🔬 Carpet Analysis System</h3>
-    <p align="center">
-      <a href="https://github.com/yosedie/carpet-analysis">
-        <img src="https://opengraph.githubassets.com/1/yosedie/carpet-analysis" width="100%" alt="Carpet Analysis"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-    </p>
-    <p align="center"><em>Bachelor's Thesis — End-to-end Computer Vision system for automated textile quality control.</em></p>
-    <p align="center"><a href="https://carpet-analyzer.streamlit.app/">🔗 Live Demo</a></p>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <h3 align="center">🍽️ GiziSehat Health App</h3>
-    <p align="center">
-      <a href="https://github.com/RickyPrakusaW/Flutter-Gizi-Sehat">
-        <img src="https://opengraph.githubassets.com/1/RickyPrakusaW/Flutter-Gizi-Sehat" width="100%" alt="GiziSehat"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-    </p>
-    <p align="center"><em>AI-powered nutrition & health assistant with calorie analysis, growth charts, and doctor booking.</em></p>
-  </td>
-  <td width="50%" valign="top">
-    <h3 align="center">🎮 Skyrim Smart Bandits AI</h3>
-    <p align="center">
-      <a href="https://github.com/yosedie/ai-in-games-project">
-        <img src="https://opengraph.githubassets.com/1/yosedie/ai-in-games-project" width="100%" alt="Skyrim AI"/>
-      </a>
-    </p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Game_AI-6DB33F?style=flat-square&logo=steam&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Utility_AI-FF6F00?style=flat-square&logo=probot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Papyrus-47A248?style=flat-square&logo=bookstack&logoColor=white"/>
-    </p>
-    <p align="center"><em>Revolutionary Utility AI system replacing rigid FSMs with tactical role-based NPC behavior.</em></p>
-  </td>
-</tr>
-</table>
+
+<img src="profile-summary-cards/4-productive-time/productive-time.svg" alt="productive time" height="165"/>
+<img src="profile-summary-cards/2-most-commit-language/most-commit-language.svg" alt="most committed languages" height="165"/>
+
+<br/>
+
+<sub>when & what I actually commit — synced weekly</sub>
+
 </div>
 
 <br/>
@@ -300,18 +200,6 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 </a>
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════ CURRENTLY ═══════════════════ -->
-
-## 🌱 &nbsp;What I'm Up To
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/LandonJPGinn/jp-verb-quiz/pull/2) in [LandonJPGinn/jp-verb-quiz](https://github.com/LandonJPGinn/jp-verb-quiz)
-<!--END_SECTION:activity-->
-
-💬 **Ask me about** → Python, React, Computer Vision, GCP, Game AI
 
 <br/>
 

@@ -1,0 +1,36 @@
+name: Generate 3D Skyline
+
+# Renders the contribution calendar as a 3D skyline SVG, committed to
+# profile-3d-contrib/ and embedded in README.md.
+
+on:
+  schedule:
+    - cron: "20 1 * * 0" # weekly, Sunday 01:20 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git commit -m "chore: update 3D contribution skyline" || echo "no changes"
+          git push

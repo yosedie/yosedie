@@ -1,0 +1,38 @@
+name: Generate Summary Cards
+
+# Generates commit-rhythm cards (productive hours, most-committed languages)
+# into profile-summary-cards/ and embeds them in README.md.
+
+on:
+  schedule:
+    - cron: "5 1 * * 1" # weekly, Monday 01:05 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/profile-summary-cards@main
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-cards/
+          git commit -m "chore: update profile summary cards" || echo "no changes"
+          git push
