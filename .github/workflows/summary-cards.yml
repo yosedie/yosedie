@@ -31,11 +31,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate cards (github_light — for website)
+      - name: Generate cards (github — light, for website)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: github_light
+          THEME: github
           UTC_OFFSET: 7
           AUTO_PUSH: false
         env:
