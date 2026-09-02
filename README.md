@@ -179,10 +179,10 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <div align="center">
 
-<!-- Row 1: Stats + Languages -->
+<!-- Row 1: Stats + Languages (generated weekly by GitHub Actions) -->
 <a href="https://github.com/yosedie">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yosedie&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yosedie&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&langs_count=8"/>
+  <img height="180em" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+  <img height="180em" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="languages across repos"/>
 </a>
 
 <br/><br/>
@@ -190,13 +190,6 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 <!-- Row 2: Streak -->
 <a href="https://github.com/yosedie">
   <img src="https://streak-stats.demolab.com/?user=yosedie&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&fire=EC4899&ring=4F46E5&currStreakLabel=4F46E5" width="60%"/>
-</a>
-
-<br/><br/>
-
-<!-- Row 3: Activity Graph -->
-<a href="https://github.com/yosedie">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosedie&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117&color=4F46E5&line=EC4899&point=ffffff&area=true&area_color=4F46E5" width="95%"/>
 </a>
 
 </div>
