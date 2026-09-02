@@ -42,7 +42,8 @@ name: ヨセディ
 location: 🇮🇩
 current_roles:
   - 🤖 AI Engineer @ FEHA (Amsterdam, Remote)
-  - 🧠 ML Engineer @ NGOPER (Indonesia, Remote)
+past_roles:
+  - 🧠 ML Engineer @ NGOPER (Indonesia, Remote) — until Aug 2026
 education:
   pursuing: M.S. Information Technology — iSTTS (2026-2028)
   completed: B.S. Computer Science — iSTTS (2022-2025)
