@@ -33,7 +33,7 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt="section divider" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
@@ -63,82 +63,54 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <div align="center">
 <table>
-<!-- Row 1: Core Profile & Pages -->
 <tr>
-  <td width="25%" align="center" valign="top">
-    <h3>👤 yosedie / yosedie</h3>
-    <p><b>Profile README</b></p>
+  <td width="50%" align="center">
     <a href="https://github.com/yosedie/yosedie">
-      <img src="https://img.shields.io/badge/Profile-Active-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=yosedie&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/yosedie"/>
     </a>
-    <br/><br/>
-    <p align="center"><em>The primary identity repo. Hosts this animated profile page and showcases my journey as an AI & ML Engineer.</em></p>
   </td>
-  <td width="25%" align="center" valign="top">
-    <h3>🌐 yosedie.github.io</h3>
-    <p><b>Free Static Hosting</b></p>
-    <a href="https://yosedie.github.io">
-      <img src="https://img.shields.io/badge/Live_Site-Online-059669?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <td width="50%" align="center">
+    <a href="https://github.com/yosedie/yosedie.github.io">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=yosedie.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie.github.io"/>
     </a>
-    <br/><br/>
-    <p align="center"><em>My main professional portfolio website, hosted completely free of charge using GitHub Pages.</em></p>
-  </td>
-  <td width="25%" align="center" valign="top">
-    <h3>⚙️ .github</h3>
-    <p><b>Global Community</b></p>
-    <a href="https://github.com/yosedie/.github">
-      <img src="https://img.shields.io/badge/Templates-Active-DB2777?style=for-the-badge&logo=gitbook&logoColor=white" />
-    </a>
-    <br/><br/>
-    <p align="center"><em>Centralized default configuration repo housing global issues, pull request templates, and security guidelines.</em></p>
-  </td>
-  <td width="25%" align="center" valign="top">
-    <h3>📄 yosedie-cv</h3>
-    <p><b>Project Pages Site</b></p>
-    <a href="https://yosedie.github.io/yosedie-cv/">
-      <img src="https://img.shields.io/badge/CV_Site-Online-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    </a>
-    <br/><br/>
-    <p align="center"><em>A dedicated interactive CV/Resume website, compiled and deployed automatically via GitHub Pages.</em></p>
   </td>
 </tr>
-<!-- Row 2: Developer Ecosystem & Utilities -->
 <tr>
-  <td width="25%" align="center" valign="top">
-    <h3>🍺 homebrew-tap</h3>
-    <p><b>Package Tap</b></p>
+  <td width="50%" align="center">
+    <a href="https://github.com/yosedie/.github">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=.github&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/.github"/>
+    </a>
+  </td>
+  <td width="50%" align="center">
+    <a href="https://github.com/yosedie/yosedie-cv">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=yosedie-cv&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/yosedie-cv"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="center">
     <a href="https://github.com/yosedie/homebrew-tap">
-      <img src="https://img.shields.io/badge/Brew_Tap-Active-D97706?style=for-the-badge&logo=homebrew&logoColor=white" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=homebrew-tap&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/homebrew-tap"/>
     </a>
-    <br/><br/>
-    <p align="center"><em>My custom Homebrew tap for distributing CLI tools. Install my terminal card utility using <code>brew install yosedie</code>!</em></p>
   </td>
-  <td width="25%" align="center" valign="top">
-    <h3>🚀 hello-world-action</h3>
-    <p><b>Custom GitHub Action</b></p>
+  <td width="50%" align="center">
     <a href="https://github.com/yosedie/hello-world-action">
-      <img src="https://img.shields.io/badge/Action-Active-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=hello-world-action&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/hello-world-action"/>
     </a>
-    <br/><br/>
-    <p align="center"><em>A custom composite GitHub Action that can be imported and executed by any developer in their workflow.</em></p>
   </td>
-  <td width="25%" align="center" valign="top">
-    <h3>📋 html5-portfolio-template</h3>
-    <p><b>Template Repository</b></p>
+</tr>
+<tr>
+  <td width="50%" align="center">
     <a href="https://github.com/yosedie/html5-portfolio-template">
-      <img src="https://img.shields.io/badge/Template-Active-7C3AED?style=for-the-badge&logo=codepen&logoColor=white" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yosedie&repo=html5-portfolio-template&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="yosedie/html5-portfolio-template"/>
     </a>
-    <br/><br/>
-    <p align="center"><em>A responsive glassmorphic portfolio boilerplate configured as a template. Click "Use this template" to bootstrap!</em></p>
   </td>
-  <td width="25%" align="center" valign="top">
+  <td width="50%" align="center" valign="middle">
     <h3>🚀 More Projects</h3>
-    <p><b>Full Repository List</b></p>
     <a href="https://github.com/yosedie?tab=repositories">
       <img src="https://img.shields.io/badge/Repos-30+-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <br/><br/>
-    <p align="center"><em>Explore my full collection of machine learning algorithms, Skripsi computer vision tools, and web apps.</em></p>
+    <p align="center"><em>ML algorithms, computer vision tools, and web apps.</em></p>
   </td>
 </tr>
 </table>
@@ -189,7 +161,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt="section divider" />
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
@@ -299,7 +271,7 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt="section divider" />
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
@@ -335,14 +307,11 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 ## 🌱 &nbsp;What I'm Up To
 
-```
-🔭 Working on    →  AI systems at FEHA & ML pipelines at NGOPER
-📚 Studying      →  M.S. Information Technology @ iSTTS
-🧪 Researching   →  Advanced Algorithms, LLMs & Generative AI
-🏗️ Building      →  Enterprise e-commerce for Diamond Electronic
-🎯 Goals 2026    →  Publish ML research & contribute to OSS
-💬 Ask me about  →  Python, React, Computer Vision, GCP, Game AI
-```
+<!--START_SECTION:activity-->
+🔭 Working on → AI systems at FEHA & ML pipelines at NGOPER
+<!--END_SECTION:activity-->
+
+💬 **Ask me about** → Python, React, Computer Vision, GCP, Game AI
 
 <br/>
 
@@ -360,13 +329,9 @@ motto: "Leveraging the art of prompt engineering to secure AI models, ensuring s
 
 <br/>
 
-<!-- ═══════════════════ SPOTIFY / QUOTE ═══════════════════ -->
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
 <div align="center">
-
-> *"I believe every line of code has a story to tell."*
-
-<br/>
 
 <!-- Trophies -->
 <a href="https://github.com/yosedie">

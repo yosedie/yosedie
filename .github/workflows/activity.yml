@@ -1,0 +1,27 @@
+name: Update Activity
+
+# Injects the last 7 days of public GitHub activity between the
+# <!--START_SECTION:activity--> / <!--END_SECTION:activity--> markers in README.md
+# and commits the result. Runs daily, shortly after the snake workflow.
+
+on:
+  schedule:
+    - cron: "45 0 * * *" # daily, 00:45 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
