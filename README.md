@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=950&height=140&lines=AI+and+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Securing+Intelligent+Systems+%26+LLMs;PyTorch+%7C+TensorFlow+%7C+OpenCV;AI+Security+%7C+Cybersecurity+%7C+Cloud+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=950&height=140&lines=AI+and+Machine+Learning+Engineer;Agentic+AI+%7C+Computer+Vision+%7C+NLP;Securing+Intelligent+Systems+%26+LLMs;PyTorch+%7C+TensorFlow+%7C+OpenCV;AI+Security+%7C+Cybersecurity+%7C+GRC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,12 +47,12 @@ education:
   pursuing: M.S. Information Technology — iSTTS (2026-2028)
   completed: B.S. Computer Science — iSTTS (2022-2025)
 focus_areas:
-  - Advanced Intelligent Systems
+  - Agentic AI & Multi-Agent Systems
   - Computer Vision & Deep Learning
   - Generative AI & LLMs
-  - Cybersecurity & Secure AI Systems
+  - Cybersecurity, GRC & AI Governance
 daily_fuel: Gaming → 💡 Ideas → ⌨️ Code → 🚀 Deploy → 🔁 Repeat
-ask_me_about: Python, Computer Vision, LLMs, GCP, Cybersecurity
+ask_me_about: Python, Agentic AI, Computer Vision, Cybersecurity, GRC
 motto: "Leveraging the art of prompt engineering to secure AI models, ensuring safety through semantic precision rather than complex code"
 ```
 
