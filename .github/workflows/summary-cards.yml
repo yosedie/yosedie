@@ -21,11 +21,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate cards
+      - name: Generate cards (tokyonight — for README profile)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: tokyonight
+          UTC_OFFSET: 7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate cards (github_light — for website)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_light
           UTC_OFFSET: 7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
